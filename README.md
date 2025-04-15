@@ -22,4 +22,21 @@ A simple Student Management System built using **PHP** and **MySQL**. This syste
 ---
 
 ## 📁 Folder Structure
+/student-management-system/
+│
+├── config/              
+│   └── db.php
+│
+├── css/                  
+│   └── style.css
+│
+├── includes/            
+│   ├── Add.php           
+│   ├── Delete.php        
+│   ├── Update.php        
+│   ├── ReadData.php      
+│   └── index.php         
+│
+├── db.sql                
+└── README.md          
 
